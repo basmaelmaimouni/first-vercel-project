@@ -21,7 +21,7 @@
 	echo("<h2>premier site de $groupe sur $plt");
 
 
-    echo("<h3><a href='Compte Rendu Atelier 1.pdf'>Atelier 1 : </h3></a>");
+    echo("<h3><a href='Compte Rendu Atelier 1.pdf'>Atelier 1 : </h3><a/>");
      
     triangle(10);
 
